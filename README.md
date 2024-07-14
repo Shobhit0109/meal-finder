@@ -21,7 +21,7 @@ SPOONACULAR_API_KEY = "YOUR_API_KEY_HERE"
 
 ## Usage
 
-To use the [Recipe Finder]() app, follow these steps:
+To use the [Meal Finder](https://meal-finder-shobhit.streamlit.app/) app, follow these steps:
 
 1. Enter comma-separated ingredients (e.g. chicken, rice, broccoli) into the input field.
 2. Select any dietary restrictions you want to apply from the dropdown menu.
