@@ -17,7 +17,7 @@ To run the Recipe Finder app, follow these steps:
 SPOONACULAR_API_KEY = "YOUR_API_KEY_HERE"
 ```
 
-5. Run the app by executing the command `streamlit run recipe_finder.py` in your terminal.
+5. Run the app by executing the command `streamlit run app.py` in your terminal.
 
 ## Usage
 
